@@ -1,6 +1,8 @@
 <img src="https://github.com/DUSiqi/News/blob/main/imgs/logo.jpg" />
-# News Application
-##### This project includes a News Website and a corresponding iOS version application. 
+
+News Application
+=================
+**This project includes a News Website and a corresponding iOS version application.**
 The server retrieve latest news from The Guardian and NYTimes APIs and display to users. Users can choose to view news in different categories like Technology, Business or Sports. Users can also search news, share, bookmark, or comment on news they like. It is **responsive** on different device.
 
 This website is now hosted on **AWS**. I uses **React** as the front-end framework and **Node.js** on the back-end with **Express** as the web server framework and I use the Model-View-Controller design pattern.
@@ -11,15 +13,23 @@ The iOS version is built with **Swift**. It reuses the website’s endpoints to 
 
 Website Preview
 =================
+Home Page
 ![HomePage](https://github.com/DUSiqi/News/blob/main/imgs/home.png)
+
+Search Result Page
 ![searchPage](https://github.com/DUSiqi/News/blob/main/imgs/search.png)
+
+View Article Page
 ![articlePage](https://github.com/DUSiqi/News/blob/main/imgs/detailed.png)
 ![comments](https://github.com/DUSiqi/News/blob/main/imgs/comments.png)
+
+Bookmark Page
 ![favoritePage](https://github.com/DUSiqi/News/blob/main/imgs/favorites.png)
 
 Live Demo
 -----------------
 [News Website](http://ec2-54-146-190-253.compute-1.amazonaws.com:3000/)
+<p></p>
 
 REST APIs
 -----------------
@@ -66,5 +76,7 @@ News App
 ![AppArc](https://github.com/DUSiqi/News/blob/main/imgs/app_archi.png)
 <p>Demo: [NewsApp]()</p>
  
+
+
 
 
