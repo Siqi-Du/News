@@ -81,7 +81,7 @@ Response are News list or news article returned in json
 
 News App
 =================
-![AppArc](https://github.com/DUSiqi/News/blob/main/imgs/app_archi.png)
+![AppArc](https://github.com/DUSiqi/News/blob/main/imgs/arc.png)
 <br/>
 Demo: [NewsApp](https://www.youtube.com/watch?v=LMdkY8jsmJY&feature=youtu.be)
 
