@@ -9,31 +9,31 @@ The server retrieve latest news from The Guardian and NYTimes APIs and display t
 
 This website is now hosted on **AWS**. I uses **React** as the front-end framework and **Node.js** on the back-end with **Express** as the web server framework and I use the Model-View-Controller design pattern.
 
-
 The iOS version is built with **Swift**. It reuses the website’s endpoints to fetch news. Besides all the functions of the website, it has a new trending module that can analyse search keyword trends through Google trends API.
 <br/>
 <br/>
 <br/>
 <br/>
-Website Preview
+
+Website
 =================
 Home Page
 ![HomePage](https://github.com/DUSiqi/News/blob/main/imgs/home.png)
 <br/>
-<br/>
+
 Search Result Page
 ![searchPage](https://github.com/DUSiqi/News/blob/main/imgs/search.png)
 <br/>
-<br/>
+
 View Article Page
 ![articlePage](https://github.com/DUSiqi/News/blob/main/imgs/detailed.png)
 ![comments](https://github.com/DUSiqi/News/blob/main/imgs/comments.png)
 <br/>
-<br/>
+
 Bookmark Page
 ![favoritePage](https://github.com/DUSiqi/News/blob/main/imgs/favorites.png)
 <br/>
-<br/>
+
 Live Demo
 -----------------
 [News Website](http://ec2-54-146-190-253.compute-1.amazonaws.com:3000/)
@@ -41,6 +41,7 @@ Live Demo
 <br/>
 <br/>
 <br/>
+
 REST APIs
 -----------------
 **News Service**
@@ -79,12 +80,17 @@ REST APIs
 </table>
 
 Response are News list or news article returned in json
+<br/>
+<br/>
 
-<br/>
-<br/>
 News App
 =================
 ![AppArc](https://github.com/DUSiqi/News/blob/main/imgs/app_archi.png)
 <br/>
 <br/>
 <p>Demo: [NewsApp]()</p>
+ 
+
+
+
+
