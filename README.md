@@ -19,7 +19,7 @@ The iOS version is built with **Swift**. It reuses the website’s endpoints to 
 Website
 =================
 Home Page
-![HomePage](https://github.com/DUSiqi/News/blob/main/imgs/home.png)
+![HomePage](imgs/home.png)
 <br/>
 
 Search Result Page
