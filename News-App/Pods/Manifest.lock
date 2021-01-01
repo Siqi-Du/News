@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - SwiftSpinner (2.1.0)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (4.0.1)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - AlamofireImage (~> 3.3)
+  - Charts
+  - SwiftSpinner
+  - SwiftyJSON
+  - Toast-Swift (~> 4.0.0)
+  - XLPagerTabStrip (~> 9.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - Charts
+    - SwiftSpinner
+    - SwiftyJSON
+    - Toast-Swift
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  SwiftSpinner: 0f15c006307f8d8bbac075638927ec1361b565d7
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 607d7b6cfa27e5b87da88202bb9bdd6f489b02e5
+
+COCOAPODS: 1.9.1
