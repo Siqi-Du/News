@@ -23,16 +23,16 @@ Home Page
 <br/>
 
 Search Result Page
-![searchPage](https://github.com/DUSiqi/News/blob/main/imgs/search.png)
+![searchPage](imgs/search.png)
 <br/>
 
 View Article Page
-![articlePage](https://github.com/DUSiqi/News/blob/main/imgs/detailed.png)
-![comments](https://github.com/DUSiqi/News/blob/main/imgs/comments.png)
+![articlePage](imgs/detailed.png)
+![comments](imgs/comments.png)
 <br/>
 
 Bookmark Page
-![favoritePage](https://github.com/DUSiqi/News/blob/main/imgs/favorites.png)
+![favoritePage](imgs/favorites.png)
 <br/>
 
 Live Demo
@@ -82,7 +82,7 @@ Response are News list or news article returned in json
 
 News App
 =================
-![AppArc](https://github.com/DUSiqi/News/blob/main/imgs/arc.png)
+![AppArc](imgs/arc.png)
 <br/>
 Demo: [NewsApp](https://www.youtube.com/watch?v=LMdkY8jsmJY&feature=youtu.be)
 
