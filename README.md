@@ -37,10 +37,6 @@ Bookmark Page
 Live Demo
 -----------------
 [News Website](http://ec2-54-146-190-253.compute-1.amazonaws.com:3000/)
-<br/>
-<br/>
-<br/>
-<br/>
 
 REST APIs
 -----------------
@@ -87,9 +83,7 @@ News App
 =================
 ![AppArc](https://github.com/DUSiqi/News/blob/main/imgs/app_archi.png)
 <br/>
-<br/>
-<p>Demo: [NewsApp]()</p>
- 
+Demo: [NewsApp](https://www.youtube.com/watch?v=LMdkY8jsmJY&feature=youtu.be)
 
 
 
