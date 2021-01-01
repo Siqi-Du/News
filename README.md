@@ -1,4 +1,5 @@
-<img src="https://github.com/DUSiqi/News/blob/main/imgs/logo.jpg" />
+<img src="imgs/logo.jpg" />
+<!--https://github.com/DUSiqi/News/blob/main/-->
 
 News Project
 =================
